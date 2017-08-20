@@ -6,12 +6,24 @@
 <head runat="server">
      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
     <title></title>
+    <style>
+        .wrapper{
+    display:flex;
+    flex-flow:row wrap;
+    }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
-        <header class="w3-red" style="width:300px; height:200px;"></header>
-        <div>
-        </div>
+<div class="wrapper">
+<header class="header">
+
+</header>
+    <div class="main"></div>
+    <aside class="aside aside1"></aside>
+    <aside class="aside aside2"></aside>
+    <footer class="footer"></footer>
+    </div>
     </form>
 </body>
 </html>
