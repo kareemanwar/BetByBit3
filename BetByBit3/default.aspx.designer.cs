@@ -11,7 +11,7 @@ namespace BetByBit3
 {
 
 
-    public partial class HomePage
+    public partial class _default
     {
 
         /// <summary>
