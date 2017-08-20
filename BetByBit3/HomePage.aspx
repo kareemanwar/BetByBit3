@@ -10,7 +10,26 @@
         .wrapper{
     display:flex;
     flex-flow:row wrap;
+    background-color:red;
     }
+        .header{
+            background-color:blue;
+        }
+        .main{
+            background-color:yellow;
+        }
+        .aside1{
+            background-color:green;
+        }
+        .aside2{
+            background-color:brown;
+        }
+        .footer{
+            background-color:aqua;
+        }
+        .header,.main,.nav,.aside,.footer {
+            flex: 1 100%;
+        }
     </style>
 </head>
 <body>
