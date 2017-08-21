@@ -75,7 +75,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bet by bit logo 1.png" />
     <Content Include="default.aspx" />
+    <Content Include="goldgenerate.jpg" />
+    <Content Include="HeaderBG3.jpg" />
+    <Content Include="inplaycover.jpg" />
+    <Content Include="Resources\HeaderBG.jpg" />
+    <Content Include="Resources\inplaycover.jpg" />
     <Content Include="TextFile1.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
